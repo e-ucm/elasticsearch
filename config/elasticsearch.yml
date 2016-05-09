@@ -1,0 +1,7 @@
+# Set a custom port for the node to node communication (9300 by default):
+#
+transport.tcp.port: 9317
+
+# Set a custom port to listen for HTTP traffic:
+#
+http.port: 9217
